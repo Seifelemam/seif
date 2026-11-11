@@ -1,0 +1,4 @@
+Pictures the site expects but cannot find yet (written by tools/sync_images.py).
+Put each file at exactly this path inside assets/images/, then run: python3 tools/sync_images.py
+
+None: every expected picture exists.
